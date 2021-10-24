@@ -1,0 +1,12 @@
+Analizar 10 
+RESPUESTAS:
+a) # Este  código calcula la cantidad de cifras de un número. 
+b) la variable cant cuenta la cantidad de cifras del número dato.
+     línea 14 >>> print("El numero",nro,"tiene",cant,"CIFRAS")
+c) contador: cant
+d) acumulador: no hay
+e) la variable de control del ciclo es n
+f)  línea 8: es para que el programa sirva también para números negativos.
+g)  PRUEBA DE ESCRITORIO: ver archivo siguiente.
+     los valores de las variables son:  n=0.1044 ; nro=1044 ; cant=4
+
