@@ -1,0 +1,16 @@
+ejercicio 24
+
+definir una funcion llamada invertirNueva(lista), que reciba una lista y devuelva una nueva lista
+con sus elementos en orden inverso
+ejemplo: frutas=["banana", "durazno", "manzana", "naranja", "pera", "zapallo"]
+	 nueva=["zapallo", "pera", "naranja", "manzana", "durazno", "banana"]
+
+
+
+ejercicio 25:
+
+definir una funcion llamada invertirMod(lista), que reciba y modifique dejando sus elementos
+en orden inverso
+ejemplo:
+frutas= ["banana", "durazno", "manzana", "naranja", "pera", "zapallo"]
+frutas=["zapallo", "pera", "naranja", "manzana", "durazno", "banana"]
