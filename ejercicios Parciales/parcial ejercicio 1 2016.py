@@ -54,7 +54,7 @@ def distanciaMaxima(n):
     maxd=distanciaMax(divisoresp)
     return maxd
 
-print(distanciaMaxima(88))
+print(distanciaMaxima(1010))
 
 
 
