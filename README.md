@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kidje3
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me juliankidje@hotmail.com
